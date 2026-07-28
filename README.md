@@ -179,4 +179,4 @@ Este proyecto se basa en [Zipline](https://github.com/diced/zipline), licenciado
 
 ---
 
-> ✨ **Nota**: Este repositorio contiene la configuración Docker y documentación extraída del tutorial de Genbyte: [Cómo instalar Zipline en Docker - Servidor de subida de archivos y acortador profesional](https://genbyte.blogspot.com/2026/07/como-instalar-zipline-en-docker.html)
+> ✨ **Nota**: Este repositorio contiene la configuración Docker y documentación extraída del tutorial de Genbyte: <a href="https://genbyte.blogspot.com/2026/07/como-instalar-zipline-en-docker.html" target="_blank" rel="noopener noreferrer">Cómo instalar Zipline en Docker - Servidor de subida de archivos y acortador profesional</a>
